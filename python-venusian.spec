@@ -7,7 +7,7 @@
 %bcond_with	tests	# do not perform "make test"
 
 %define		subver	a7
-%define		rel		1
+%define		rel		2
 %define 	module	venusian
 Summary:	A library for deferring decorator actions
 Name:		python-%{module}
